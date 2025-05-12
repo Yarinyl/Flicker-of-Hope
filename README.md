@@ -13,11 +13,6 @@
 - 📉 Demonstrated improved Mean Average Precision (MAP) scores compared to baseline and SAC defenses.
 - 🧠 Proposes a new angle in adversarial defense research by animating static scenes.
 
----
-
-📄 [Read the full report here](./Flicker%20of%20Hope%20-%20Final%20Report.pdf)
-
----
 
 ## 🛠️ Methodology
 
