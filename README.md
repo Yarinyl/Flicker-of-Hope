@@ -15,17 +15,7 @@
 
 ---
 
-## 📄 Paper
-
-This project is based on the final thesis submitted to Ben-Gurion University by:
-- Aviel Ben-Siman-Tov
-- Bar Dolev
-- Beni Ifland
-- Ido Paretsky
-- Ken Yaggel
-- Yarin Yerushalmi Levi
-
-📄 [Read the full paper](./Flicker%20of%20Hope%20-%20Final%20Report.pdf)
+📄 [Read the full report here](./Flicker%20of%20Hope%20-%20Final%20Report.pdf)
 
 ---
 
